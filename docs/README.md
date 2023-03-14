@@ -1,10 +1,18 @@
 ---
 home: true
+<<<<<<< HEAD
 # heroImage: /hero.png
 heroText: mistletoe
 tagline: mistletoe
 actionText: 面试 →
 actionLink: /Web/Interview/
+=======
+heroImage: /hero.png
+heroText: Hero 标题
+tagline: Hero 副标题
+actionText: 快速上手 →
+actionLink: /zh/guide/
+>>>>>>> bb28570217c8b7c142ab0b2febf88dedf509fd47
 features:
   - title: 简洁至上
     details: 以 Markdown 为中心的项目结构，以最少的配置帮助你专注于写作。

@@ -1,3 +1,14 @@
+<<<<<<< HEAD
+=======
+<!--
+ * @Author: 张苗苗
+ * @Date: 2023-03-07 21:14:40
+ * @LastEditors: 张苗苗
+ * @LastEditTime: 2023-03-07 22:00:13
+ * @FilePath: /my-docs/docs/Web/JavaScript/es6.md
+ * @Description:
+-->
+>>>>>>> bb28570217c8b7c142ab0b2febf88dedf509fd47
 
 # es6的一些语法
 
